@@ -1,0 +1,5 @@
+dpcpp-homeworks-main
+**/x64
+**/.vs
+*.filters
+*.user
